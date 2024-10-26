@@ -18,3 +18,6 @@ def db_connection():
     except Exception as e:
         
         print(f"Error al conectarse: {e}")
+
+
+#Este cambio fue hecho desde la pcerda xdddd
